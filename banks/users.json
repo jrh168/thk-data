@@ -1,214 +1,258 @@
-
 [
   {
     "phone": "13883636880",
     "name": "蒋燚",
     "job": "场（厂）内专用车",
-    "expire": 58,
-    "isVIP": true
+    "expire": "58",
+    "isVIP": true,
+    "isAdmin": false
   },
   {
     "phone": "18223287393",
     "name": "喻明生",
     "job": "流动式起重机",
-    "expire": 58,
-    "isVIP": true
+    "expire": "58",
+    "isVIP": true,
+    "isAdmin": false
   },
-{
+  {
     "phone": "18502395010",
     "name": "王绪绅",
     "job": "场（厂）内专用车",
-    "expire": 58,
-   "isVIP": true
+    "expire": "58",
+    "isVIP": true,
+    "isAdmin": false
   },
-{
+  {
     "phone": "15683142989",
     "name": "唐海林",
     "job": "场（厂）内专用车",
-    "expire": 58,
-    "isVIP": true
+    "expire": "58",
+    "isVIP": true,
+    "isAdmin": false
   },
-{
+  {
     "phone": "15123855078",
     "name": "何中祥",
     "job": "场（厂）内专用车",
-    "expire": 58,
-    "isVIP": true
+    "expire": "58",
+    "isVIP": true,
+    "isAdmin": false
   },
-{
+  {
     "phone": "13594478252",
     "name": "贺小东",
     "job": "流动式起重机",
-    "expire": 58,
-    "isVIP": true
+    "expire": "58",
+    "isVIP": true,
+    "isAdmin": false
   },
-{
+  {
     "phone": "13883636880",
     "name": "蒋燚",
     "job": "流动式起重机",
-    "expire": 58,
-    "isVIP": true
+    "expire": "58",
+    "isVIP": true,
+    "isAdmin": false
   },
-{
+  {
     "phone": "13883636880",
     "name": "蒋燚",
     "job": "起重机指挥",
-    "expire": 58,
-    "isVIP": true
+    "expire": "58",
+    "isVIP": true,
+    "isAdmin": false
   },
-{
+  {
     "phone": "13883636880",
     "name": "蒋燚",
     "job": "起重机司机",
-    "expire": 58,
-    "isVIP": true
+    "expire": "58",
+    "isVIP": true,
+    "isAdmin": false
   },
   {
     "phone": "13883990010",
     "name": "绪祥二老板",
     "job": "流动式起重机",
-    "expire": 58,
-    "isVIP": true
+    "expire": "58",
+    "isVIP": true,
+    "isAdmin": false
   },
   {
     "phone": "18008383481",
     "name": "张振华",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
-{
+  {
     "phone": "18323086322",
     "name": "杨建",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
   {
-    "phone": "13908353266",
-    "name": "伍老师",
+    "phone": "17729657516",
+    "name": "邓志军",
     "job": "场（厂）内专用车",
-    "expire": 58,
-    "isVIP": true
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
   {
     "phone": "18281884111",
     "name": "雷文平",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
-    {
-    "phone": "13996625690",
-    "name": "曾云军",
+  {
+    "phone": "17318425129",
+    "name": "黄豪",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
-{
+  {
     "phone": "18089655654",
     "name": "侯宇",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
-{
+  {
     "phone": "18183031891",
     "name": "潘玉先",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
-{
+  {
     "phone": "18983599689",
     "name": "喻方",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
   {
     "phone": "15023750554",
     "name": "何忠强",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
   {
     "phone": "15528807877",
     "name": "李伟",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
-   {
+  {
     "phone": "17783710172",
     "name": "邱令刚",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
   {
     "phone": "15823415955",
     "name": "胡林",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
   {
     "phone": "13368287318",
     "name": "宋波",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
   {
     "phone": "15909355709",
     "name": "王定勇",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
   {
     "phone": "15826053585",
     "name": "黄树雄",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
   {
     "phone": "18696760484",
     "name": "梁清明",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
   {
     "phone": "13594097002",
     "name": "谭炫",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
   {
     "phone": "19937046381",
     "name": "丁增亚",
     "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
   {
     "phone": "13967489904",
     "name": "肖成群",
     "job": "场（厂）内专用车",
-    "expire": 58
-  },
-    {
-      "phone": "17347997205",
-    "name": "李滨兵",
-    "job": "场（厂）内专用车",
-    "expire": 58
-  },
-   {
-     "phone": "17729657516",
-    "name": "邓志军",
-    "job": "场（厂）内专用车",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
   {
-    "phone": "13002376050",
-    "name": "测试",
-    "job": "管理员",
-    "expire": "长期",
-    "isAdmin": true
+    "phone": "17347997205",
+    "name": "李滨兵",
+    "job": "场（厂）内专用车",
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
+  },
+  {
+    "phone": "13350317978",
+    "name": "张崧",
+    "job": "安全管理员",
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
   {
     "phone": "13983247811",
     "name": "苏美女",
     "job": "管理员",
     "expire": "长期",
+    "isVIP": false,
     "isAdmin": true
   },
   {
@@ -216,19 +260,39 @@
     "name": "麻丝",
     "job": "管理员",
     "expire": "长期",
+    "isVIP": false,
     "isAdmin": true
   },
   {
     "phone": "17726229918",
     "name": "杜建雄",
     "job": "安全管理员",
-    "expire": 58
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   },
-   {
-    "phone": "18523061515",
-    "name": "尹老板",
-    "job": "安全管理员",
-    "expire": 58,
-    "isVIP": true
+  {
+    "phone": "18375871792",
+    "name": "张兴伟",
+    "job": "起重机司机",
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
+  },
+  {
+    "phone": "15023108714",
+    "name": "肖靖军",
+    "job": "场（厂）内专用车",
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
+  },
+  {
+    "phone": "15089334598",
+    "name": "邱中华",
+    "job": "流动式起重机",
+    "expire": "58",
+    "isVIP": false,
+    "isAdmin": false
   }
 ]
